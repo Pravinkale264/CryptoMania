@@ -1,2 +1,49 @@
 # 🪙CryptoMania
-## Website Link: https://mycryptomania.netlify.app/
+### Deploy Website Link: https://mycryptomania.netlify.app/
+### Website Demo
+#### Cryptomania is a web app which can be used to study the cryptocurrencies market on daily basis. It has a simple UI and good user experience.
+
+<div>
+  
+![Screenshot from 2023-08-20 14-36-31](https://github.com/Pravinkale264/CryptoMania/assets/91412104/1069d0e5-097e-48f5-9682-d6193595ea9b)
+
+<br>
+
+![Screenshot from 2023-08-20 14-37-12](https://github.com/Pravinkale264/CryptoMania/assets/91412104/054ebc03-ed1f-402a-90e3-7d305d89826e)
+
+<br>
+
+![Screenshot from 2023-08-20 14-37-43](https://github.com/Pravinkale264/CryptoMania/assets/91412104/3943cd0b-eb88-4256-a6b2-ba7dc300996a)
+
+<br>
+
+![Screenshot from 2023-08-20 14-37-26](https://github.com/Pravinkale264/CryptoMania/assets/91412104/2f3253a7-d898-48db-b6ff-438b5804dfcf)
+
+</div>
+
+## Tech stack Used
+
+- React Js
+- Rapid API
+- Material UI
+- Javascript
+- CSS
+
+## About
+
+* It is a single page application used to study the cryptocurrencies market.
+* It provides the latest news feed related to cryptocurrencies.
+* Detailed info of cryptocurrencies is available with charts and stats.
+* Provides info about Top 100 cryptocurrencies in world with global stats.
+
+## References
+
+* [React Js](https://reactjs.org/docs/getting-started.html)
+* [Rapid API](https://rapidapi.com/hub)
+* [Mateial UI](https://mui.com/material-ui/react-grid/)
+* [icons8](https://icons8.com/icons/)
+
+## *Author*
+
+* Pravin Kale (pravinkale264@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/pravin-kale-b07a901ba/)

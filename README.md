@@ -25,7 +25,7 @@
 
 - React Js
 - Rapid API
-- Material UI
+- Ant Design
 - Javascript
 - CSS
 
@@ -40,7 +40,7 @@
 
 * [React Js](https://reactjs.org/docs/getting-started.html)
 * [Rapid API](https://rapidapi.com/hub)
-* [Mateial UI](https://mui.com/material-ui/react-grid/)
+* [Ant Design](https://ant.design/)
 * [icons8](https://icons8.com/icons/)
 
 ## *Author*

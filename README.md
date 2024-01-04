@@ -1,7 +1,7 @@
 # 🪙CryptoMania
 ### Deploy Website Link: https://mycryptomania.netlify.app/
 ### Website Demo
-#### Cryptomania is a web app which can be used to study the cryptocurrencies market on daily basis. It has a simple UI and good user experience.
+#### Cryptomania is a dynamic web application that serves as a comprehensive platform for cryptocurrency enthusiasts and investors. Built using cutting-edge technologies such as React.js, Material UI, and Redux, Cryptomania offers a seamless and intuitive user experience.
 
 <div>
   
